@@ -8,3 +8,5 @@ if lgaya setCounter =counter kr diya extreme condition par
 shortcut => rfce
 
 {btnText || "visit me" } ye hm card ke andar deskte pr readability kmm hojauyegi iisse achha props mein hi dede
+
+Remember the key in loops in react
