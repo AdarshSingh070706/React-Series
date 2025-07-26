@@ -10,7 +10,7 @@ function Profile() {
     }
   return (
    <div>
-    Welcome {user.usrname}
+    Welcome {user.username}
    </div>
   )
 }
